@@ -1,0 +1,12 @@
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics Package.csproj.AssemblyReference.cache
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics Package.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics_Package.Form1.resources
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics_Package.Properties.Resources.resources
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics Package.csproj.GenerateResource.cache
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics Package.csproj.CoreCompileInputs.cache
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\bin\Debug\Graphics Package.exe.config
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\bin\Debug\Graphics Package.exe
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\bin\Debug\Graphics Package.pdb
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics Package.exe
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics Package.pdb
+C:\Users\Mohannad Nasreldin\source\repos\Graphics Package\obj\Debug\Graphics_Package.Form2.resources
